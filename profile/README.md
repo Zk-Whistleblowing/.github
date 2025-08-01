@@ -55,7 +55,7 @@ ZK-Whistleblowing은 3개의 핵심 컴포넌트로 구성되어 있습니다:
 
 ### 로그인 화면
 
-![로그인](../assets/images/login.png)
+![로그인](../assets/images/LOGIN.png)
 
 ### 대시보드
 
